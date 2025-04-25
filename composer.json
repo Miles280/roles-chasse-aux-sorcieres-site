@@ -11,5 +11,7 @@
             "email": "loughsala.imed@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "doctrine/doctrine-fixtures-bundle": "^4.1"
+    }
 }
